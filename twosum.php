@@ -18,4 +18,8 @@ for ($i=0; $i < count($nums); $i++) {
 	return $temp;
 }
 
+if(!empty($target))
+{
+	echo "complete";
+}
 ?>
