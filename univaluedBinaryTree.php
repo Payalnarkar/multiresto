@@ -25,5 +25,5 @@ function isUnivalTree($root) {
    $root = [1,1,1,1,1,null,1];
    
    isUnivalTree($root); 
-
+    echo "spectra";
 ?>
